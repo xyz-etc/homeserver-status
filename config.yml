@@ -169,7 +169,7 @@ params:
     - name: Radarr
       description: The web frontend for the application.
       category: Uncategorized
-      link: https://radarr.ainabe.com/
+      link: https://radarr2.ainabe.com/
     - name: API
       description: The guts of the application.
       category: Uncategorized
