@@ -97,7 +97,7 @@ defaultContentLanguage: en
 #
 # Broken example:
 # baseUrl: /
-baseURL: https://example.com
+baseURL: https://homeserver-status.pages.dev
 
 # For features like Last modified, you
 # need to use a Git repository. If you
@@ -162,10 +162,14 @@ params:
       category: North Coast
     - name: Backup Gateway
       category: North Coast
-    - name: Website
+    - name: Sonarr
       description: The web frontend for the application.
       category: Uncategorized
-      link: https://example.com/
+      link: https://sonarr.ainabe.com
+    - name: Radarr
+      description: The web frontend for the application.
+      category: Uncategorized
+      link: https://radarr.ainabe.com/
     - name: API
       description: The guts of the application.
       category: Uncategorized
